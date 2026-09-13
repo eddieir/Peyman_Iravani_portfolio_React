@@ -33,7 +33,6 @@
       "last 1 safari version"
     ]
   },
-,
   "overrides": {
     "lodash": ">=4.17.21",
     "lodash.template": ">=4.5.0",
