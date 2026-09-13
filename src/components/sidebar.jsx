@@ -25,7 +25,7 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="mailto:peyman.iravani@gmail.com" ><img src="https://img.icons8.com/material-sharp/24/000000/important-mail.png" /></a></li>
+                <li><a href="mailto:peyman.iravani@gmail.com" ><img src="https://img.icons8.com/material-sharp/24/000000/important-mail.png" alt="" /></a></li>
                 <li><a href="https://www.facebook.com/eddie.iravani" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
                 <li><a href="https://twitter.com/workingbee90" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
                 <li><a href="https://www.instagram.com/eddie_itinerant_photographer/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
