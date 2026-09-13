@@ -32,5 +32,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "overrides": {
+    "lodash": ">=4.17.21",
+    "lodash.template": ">=4.5.0",
+    "shell-quote": ">=1.8.1",
+    "flatted": ">=3.2.9",
+    "word-wrap": ">=1.2.4",
+    "semver": ">=7.5.4",
+    "tar": ">=6.2.1",
+    "tough-cookie": ">=4.1.3"
   }
 }
